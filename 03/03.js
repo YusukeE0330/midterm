@@ -1,4 +1,5 @@
-function isEvenNumber(i){
-val i = 20
-if( i % 2 == 0 ) println(true) else println(false)
-}
+function isEvenNumber(a){
+    var result = a % 2 == 0 == true;
+    var result = !true == false;
+
+console.log(result);
