@@ -6,5 +6,5 @@ function fizzbuzz(a) {
     if( a % 15 == 0 )
         return "fizzbuzz";
     else
-        return a
+        return a;
 }
