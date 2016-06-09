@@ -1,6 +1,6 @@
 function strlen(a){
     return a.length
 }
-function concat(b){
-
+function concat(b,c){
+    return b + c
 } 
