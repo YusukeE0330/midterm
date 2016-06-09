@@ -3,3 +3,4 @@ function isEvenNumber(a){
     var result = !true == false;
 
 console.log(result);
+}
