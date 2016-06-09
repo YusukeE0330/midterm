@@ -1,6 +1,3 @@
-function id(1){
-  return 1;
-
-var text = id("hello");
-text == "hello"; // true;
+function id(a){
+  return a;
 }
