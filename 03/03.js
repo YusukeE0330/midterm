@@ -1,6 +1,8 @@
-function isEvenNumber(a){
-    var result = a % 2 == 0 == true;
-    var result = !true ==false;
-
-console.log(result);
+function isEvenNumber(value){
+if(value % 2 == 0){
+  func1(true);
+}else{
+  if(value % 3 == 0){
+    func2(false);
+  }
 }
