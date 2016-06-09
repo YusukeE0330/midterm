@@ -3,7 +3,7 @@ function plus(a, b){
 }
 
 function minus(a, b){
-  return add(a, -1 * b);
+  return minus(a, -1 * b);
 }
 
 function times(a, b){
