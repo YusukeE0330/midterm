@@ -1,6 +1,6 @@
 function isEvenNumber(a){
-    var result = a = 2 == true;
-    var result = !true == false;
+    var result = i % 2 == 0 && (i != 0) == true;
+    var result = !true ==false;
 
 console.log(result);
 }
